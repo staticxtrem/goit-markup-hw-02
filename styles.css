@@ -1,0 +1,54 @@
+root {
+  --brand-color: #white;
+}
+.site-nav .link {
+  text-transform: none;
+}
+.site-nav {
+  list-style: none;
+}
+body {
+  font-family: 'Raleway', sans-serif;
+  }
+.text {
+  background-color: #2F303A;
+  color: var(--brand-color)
+}
+.texth {
+  background-color: var(--brand-color);
+  color:#2F303A
+}
+.tittle {
+  background-color: var(--brand-color);
+  color: #2196F3;
+}
+.tittleh {
+  background-color: #2F303A;
+  color: white;
+}
+.tittlef {
+  background-color: #2F303A;
+  color: #2196F3;
+}
+.titlet {
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+}
+.text {
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+}
+.textt {
+  background-color: #2196F3;
+  color: var(--brand-color)
+}
+cursor
+
